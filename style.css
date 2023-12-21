@@ -226,7 +226,6 @@ left:650px;
 top:0px;
 align:center;
 }
-}
 #аааа {
 position: absolute;
         margin: 0;
@@ -234,7 +233,7 @@ position: absolute;
         list-style-type: none;
         width: 400px;
         top:35px;
-        left:0px;
+        left:1400px;
       }
 a[href^="tel:"]:before {
   content: "\260e";
@@ -247,7 +246,7 @@ position: absolute;
         list-style-type: none;
         width: 400px;
         top:50px;
-        left:0px;
+        left:1400px;
       }
 
       }
