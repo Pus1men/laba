@@ -234,7 +234,7 @@ position: absolute;
         list-style-type: none;
         width: 400px;
         top:35px;
-        left:2400px;
+        left:7000px;
       }
 a[href^="tel:"]:before {
   content: "\260e";
@@ -247,7 +247,7 @@ position: absolute;
         list-style-type: none;
         width: 400px;
         top:50px;
-        left:500px;
+        left:0px;
       }
 
       }
